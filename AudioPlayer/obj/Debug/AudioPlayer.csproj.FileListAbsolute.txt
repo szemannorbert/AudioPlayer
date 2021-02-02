@@ -1,0 +1,15 @@
+C:\Users\szema\OneDrive\Desktop\Szemán Norbert\kompprog\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csprojAssemblyReference.cache
+C:\Users\szema\OneDrive\Desktop\Szemán Norbert\kompprog\AudioPlayer\AudioPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\szema\OneDrive\Desktop\Szemán Norbert\kompprog\AudioPlayer\AudioPlayer\obj\Debug\App.g.cs
+C:\Users\szema\OneDrive\Desktop\Szemán Norbert\kompprog\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer_MarkupCompile.cache
+C:\Users\szema\OneDrive\Desktop\Szemán Norbert\kompprog\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer_MarkupCompile.lref
+C:\Users\szema\OneDrive\Desktop\Szemán Norbert\kompprog\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.exe.config
+C:\Users\szema\OneDrive\Desktop\Szemán Norbert\kompprog\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.exe
+C:\Users\szema\OneDrive\Desktop\Szemán Norbert\kompprog\AudioPlayer\AudioPlayer\bin\Debug\AudioPlayer.pdb
+C:\Users\szema\OneDrive\Desktop\Szemán Norbert\kompprog\AudioPlayer\AudioPlayer\obj\Debug\MainWindow.baml
+C:\Users\szema\OneDrive\Desktop\Szemán Norbert\kompprog\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.g.resources
+C:\Users\szema\OneDrive\Desktop\Szemán Norbert\kompprog\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.Properties.Resources.resources
+C:\Users\szema\OneDrive\Desktop\Szemán Norbert\kompprog\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.GenerateResource.cache
+C:\Users\szema\OneDrive\Desktop\Szemán Norbert\kompprog\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.csproj.CoreCompileInputs.cache
+C:\Users\szema\OneDrive\Desktop\Szemán Norbert\kompprog\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.exe
+C:\Users\szema\OneDrive\Desktop\Szemán Norbert\kompprog\AudioPlayer\AudioPlayer\obj\Debug\AudioPlayer.pdb
