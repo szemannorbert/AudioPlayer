@@ -13,15 +13,15 @@
                 <GradientStop Color="#FF3AFF00" Offset="1"/>
             </LinearGradientBrush>
         </Grid.Background>
-        <Button x:Name="nextButton" Content="Next" HorizontalAlignment="Left" Height="50" Margin="233,356,0,0" VerticalAlignment="Top" Width="70" Background="White" FontFamily="Times New Roman" FontSize="18" FontWeight="Bold"/>
+        <Button x:Name="nextButton" Content="Next" HorizontalAlignment="Left" Height="50" Margin="233,356,0,0" VerticalAlignment="Top" Width="70" Background="White" FontFamily="Times New Roman" FontSize="18" FontWeight="Bold" Click="nextButton_Click"/>
         <Button x:Name="pauseButton" Content="Pause" HorizontalAlignment="Left" Height="50" Margin="158,356,0,0" VerticalAlignment="Top" Width="70" Background="White" FontFamily="Times New Roman" FontSize="18" FontWeight="Bold" Click="pauseButton_Click"/>
         <Button x:Name="playButton" Content="Play" HorizontalAlignment="Left" Height="50" Margin="83,356,0,0" VerticalAlignment="Top" Width="70" Background="White" FontFamily="Times New Roman" FontSize="18" FontWeight="Bold" Click="playButton_Click"/>
-        <Button x:Name="prevButton" Content="Prev" HorizontalAlignment="Left" Height="50" Margin="8,356,0,0" VerticalAlignment="Top" Width="70" Background="White" FontFamily="Times New Roman" FontSize="18" FontWeight="Bold"/>
+        <Button x:Name="prevButton" Content="Prev" HorizontalAlignment="Left" Height="50" Margin="8,356,0,0" VerticalAlignment="Top" Width="70" Background="White" FontFamily="Times New Roman" FontSize="18" FontWeight="Bold" Click="prevButton_Click"/>
         <Slider x:Name="statusBar" HorizontalAlignment="Left" Height="23" Margin="8,420,0,0" VerticalAlignment="Top" Width="295" ValueChanged="statusBar_ValueChanged"/>
         <ListBox x:Name="listBoxSongs" HorizontalAlignment="Left" Height="295" Margin="8,56,0,0" VerticalAlignment="Top" Width="220" SelectionChanged="listBoxSongs_SelectionChanged"/>
         <Slider x:Name="volumeSlider" HorizontalAlignment="Left" Height="195" Margin="255,93,-104,0" VerticalAlignment="Top" Width="158" Orientation="Vertical" ValueChanged="volumeSlider_ValueChanged" Maximum="1" Value="0.5"/>
         <Button x:Name="selectButton" Content="Select Songs" HorizontalAlignment="Left" Height="41" Margin="10,10,0,0" VerticalAlignment="Top" Width="218" Background="White" FontFamily="Times New Roman" FontSize="18" FontWeight="Bold" Click="selectButton_Click"/>
-        <Label Content="00:00 / 00:00" HorizontalAlignment="Left" Height="33" Margin="115,439,0,0" VerticalAlignment="Top" Width="97"/>
+        <Label x:Name="timeLabel" Content="00:00 / 00:00" HorizontalAlignment="Left" Height="33" Margin="115,439,0,0" VerticalAlignment="Top" Width="97"/>
         <Button x:Name="deleteButton" Content="Delete" HorizontalAlignment="Left" Height="41" Margin="233,10,0,0" VerticalAlignment="Top" Width="66" FontFamily="Times New Roman" FontWeight="Bold" FontSize="18" Background="White" Click="deleteButton_Click"/>
 
     </Grid>
